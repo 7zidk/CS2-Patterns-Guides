@@ -5,7 +5,7 @@ press `shift+F12` and search `map_shutdown`
 go to the first xref and decompile, here is your levelshutdown function.
 
 ```c
-  __int64 sub_180B9A200() -> LevelShutdown
+  __int64 sub_180B9A200() // -> LevelShutdown
 {
   __int64 v0; // rax
 
